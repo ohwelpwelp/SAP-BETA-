@@ -1,4 +1,4 @@
-#SAP a programming language
+# SAP a programming language
 
 This is a modified version of brainfuck, but with just add some more syntax and change all syntax to symbols
 
@@ -16,7 +16,7 @@ _ will make the poniter go right
 
 & will get the input and assign it to the cell that the pointer is pointing at
 
-* will output the value of the cell that is being pointed as a character
+= will output the value of the cell that is being pointed as a character
 
 ? will make a new cell
 

@@ -1,5 +1,4 @@
-SAP
-a programming language
+#SAP a programming language
 
 This is a modified version of brainfuck, but with just add some more syntax and change all syntax to symbols
 
@@ -13,7 +12,7 @@ syntax:
 
 $ will make the poniter go left
 
-# will make the poniter go right
+_ will make the poniter go right
 
 & will get the input and assign it to the cell that the pointer is pointing at
 

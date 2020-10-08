@@ -1,4 +1,3 @@
-#GUI
 import tkinter as tk
 root = tk.Tk()
 def getTextInput():
@@ -38,4 +37,3 @@ textExample.pack()
 btnRead=tk.Button(text="Run", command=getTextInput)
 btnRead.pack()
 root.mainloop()
-#Process
